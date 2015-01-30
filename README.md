@@ -21,7 +21,7 @@ git user.email "[adresse_Email]"
 Pour télécharger un projet git clone [url]
 
 Crée un remote  pointant le dépot dépôt GitHub
-git remote add origin https://github.com/username/Test.git
+git remote add origin https://github.../username/Test.git
 
 Envoie tous les commits de la branche locale vers GitHub
 git push origin tp_si6
